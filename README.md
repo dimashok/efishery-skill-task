@@ -2,8 +2,11 @@
 eFishery Skill Task for automation
 
 I am using Cypress (Nodejs based automation framework) to do automation on Youtube Music website
+![image](https://user-images.githubusercontent.com/57977693/195596733-a7474f33-d5c2-43c3-87e1-394ddad5944d.png)
+
 
 # How to install
+*Note: you might need to install Nodejs and npm to run the Cypress*
 
 First off, you need to clone this repository, then you can open the folder in your terminal and type this command:
 
@@ -32,3 +35,7 @@ It will run the whole test scripts available in the Integration Tests
 You can also run headless for just 1 spec file by typing:
 
 `npx cypress run --spec <file address>`
+
+
+# End of the line
+For more informations, you can visit cypress.io to see the other details about this framework

@@ -23,8 +23,11 @@ Next, we got to open the Cypress Controller by typing this command in your termi
 It will have some loading time because it is your first time opening the Cypress after install.
 If you have errors you could not open, try to type the previous command once again (this is Cypress thingy).
 
-Later, you will see this kind of window. It is the Cypress controller for you to open each test cases I have created.
-You can click the `.js` files inside the controller to run the code headed.
+Later, you will see the window below. It is the Cypress controller for you to open each test suites I have created. The test suites itself contained 5 and 6 test cases each, so there will be 11 test cases inside those 2 test suites
+
+![Screenshot 10-14-2022 09 11 53](https://user-images.githubusercontent.com/57977693/195746231-083a53c6-df91-498b-b621-d6e08042a5f2.png)
+
+You can click the `.js` files inside the controller to run the code 'with head'.
 
 If you want to run it headlessly, you can simply type:
 

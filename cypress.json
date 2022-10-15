@@ -1,1 +1,12 @@
-{}
+{
+  "baseUrl": "https://music.youtube.com",
+  "integrationFolder": "cypress/integration/main",
+  "video": false,
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 50000,
+  "retries": {
+    "runMode": 1,
+    "openMode": 1
+  }
+}

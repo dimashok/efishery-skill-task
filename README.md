@@ -1,4 +1,4 @@
-# efishery-skill-task
+# eFishery Skill Task by Aldryan Deschara Putra
 eFishery Skill Task for automation
 
 I am using Cypress (Nodejs based automation framework) to do automation on Youtube Music website
@@ -42,3 +42,5 @@ You can also run headless for just 1 spec file by typing:
 
 # End of the line
 For more informations, you can visit cypress.io to see the other details about this framework
+
+Footnote: apologize for any fleakiness, this is either Youtube Music page itself or Cypress. I believe my code is already handled it correctly.
